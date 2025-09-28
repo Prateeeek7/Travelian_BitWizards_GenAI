@@ -10,14 +10,8 @@ pinned: false
 short_description: AI-Powered Travel Planner for India - React + FastAPI
 ---
 <p align="center">
-  <img src="android-chrome-512x512.png" alt="Travelian Logo" width="200"/>
+  <img src="frontend/public/LOGO.png" alt="Travelian Logo" width="200"/>
 </p>
-
-<p align="center">
-  <img src="Architecture_of_travel_planner_v2.png" alt="Travelian Architecture v2" width="800"/>
-</p>
-
-*Architecture Overview: Modern React + FastAPI full-stack application with AI-powered travel planning*
 
 # Travelian India v2.0
 
@@ -266,7 +260,8 @@ Explore our comprehensive vision for integrating Travelian India into the Samsun
 - **Future Endeavours**: [FUTURE_ENDEAVOURS.md](FUTURE_ENDEAVOURS.md)
 
 #### 🎥 Demo & Resources
-- **Live Demo**: [GitHub Repository](https://github.com/SamsungPRISMGenAIHackathon2025/Travelian)
+- **Live Demo**: [GitHub Repository](https://github.com/Prateeeek7/Travelian_BitWizards_GenAI)
+- **Demo Videos & Extra Files**: [Google Drive Folder](https://drive.google.com/drive/folders/13uLGxveZvIy2THDxlXiX7ZMsMXkpDNQ2?usp=sharing)
 - **Documentation**: Complete setup and API documentation included
 - **Architecture**: Modern React + FastAPI with AI integration
 - **Features**: Rich text formatting, interactive maps, budget planning
