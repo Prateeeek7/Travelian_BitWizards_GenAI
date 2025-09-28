@@ -193,18 +193,6 @@ Our project architecture has evolved through multiple versions:
 
 The application follows a modern full-stack architecture where the React frontend communicates with the FastAPI backend through REST APIs. The backend orchestrates multiple AI agents that work collaboratively to create comprehensive travel itineraries tailored to user preferences.
 
-## 👥 Team Members
-
-This project was created by TechMatrix Solvers for IIITDMJ HackByte3.0 (April 4-6, 2024):
-
-- **Team Leader**: Pratik Kumar (Linkedin: https://www.linkedin.com/in/pratik-kumar-198172186?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-)
-Ankit Ray (Linkedin: https://www.linkedin.com/in/ankit-ray-9a40b3317?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app )
-
-Naman Jain (Linkedin: https://www.linkedin.com/in/naman-jain-75263a326?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-Vidhi Agarwal (Linkedin: https://www.linkedin.com/in/vidhi-agarwal-3b8b95328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -278,6 +266,7 @@ Explore our comprehensive vision for integrating Travelian India into the Samsun
 **Team Leader**: Pratik Kumar  
 **Email**: pratik2002singh@gmail.com  
 **LinkedIn**: [Pratik Kumar](https://www.linkedin.com/in/pratik-kumar-198172186)
+
 
 
 
