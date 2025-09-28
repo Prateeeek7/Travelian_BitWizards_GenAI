@@ -1,8 +1,8 @@
 ---
 title: Travelian India
 emoji: 🏃
-colorFrom: orange
-colorTo: green
+colorFrom: Blue
+colorTo: Indicolite
 sdk: react
 sdk_version: 19.1.1
 app_file: frontend/src/App.tsx
@@ -13,7 +13,7 @@ short_description: AI-Powered Travel Planner for India - React + FastAPI
   <img src="frontend/public/LOGO.png" alt="Travelian Logo" width="200"/>
 </p>
 
-# Travelian India v2.0
+# Travelian India
 
 A modern AI-powered travel itinerary planner built with React + FastAPI, specifically designed for Indian travelers. This application leverages advanced AI agents to create personalized, budget-aware travel itineraries with beautiful UI and interactive maps.
 
