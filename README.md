@@ -13,13 +13,8 @@ short_description: AI-Powered Travel Planner for India - React + FastAPI
   <img src="android-chrome-512x512.png" alt="Travelian Logo" width="200"/>
 </p>
 
-<p align="center">
-  <img src="Architecture_of_travel_planner_v2.png" alt="Travelian Architecture v2" width="800"/>
-</p>
 
-*Architecture Overview: Modern React + FastAPI full-stack application with AI-powered travel planning*
-
-# Travelian India v2.0
+# Travelian India
 
 A modern AI-powered travel itinerary planner built with React + FastAPI, specifically designed for Indian travelers. This application leverages advanced AI agents to create personalized, budget-aware travel itineraries with beautiful UI and interactive maps.
 
@@ -283,6 +278,7 @@ Explore our comprehensive vision for integrating Travelian India into the Samsun
 **Team Leader**: Pratik Kumar  
 **Email**: pratik2002singh@gmail.com  
 **LinkedIn**: [Pratik Kumar](https://www.linkedin.com/in/pratik-kumar-198172186)
+
 
 
 
