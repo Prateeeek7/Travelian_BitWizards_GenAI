@@ -1,4 +1,4 @@
-# 🚀 Travelian India v2.0 - Complete Setup Guide
+# 🚀 Travelian India - Complete Setup Guide
 
 This comprehensive guide will help you set up the complete **React + TypeScript Frontend + FastAPI Backend** integration for the Travelian India platform with all the latest features including smooth animations, rich text formatting, interactive maps, and budget-aware planning.
 
@@ -14,22 +14,22 @@ This comprehensive guide will help you set up the complete **React + TypeScript 
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    React Frontend (Port 3002)              │
-│              TypeScript + Tailwind CSS + GSAP              │
-│              Framer Motion + Lucide Icons                  │
+│                    React Frontend (Port 3002)               │
+│              TypeScript + Tailwind CSS + GSAP               │
+│              Framer Motion + Lucide Icons                   │
 └─────────────────────┬───────────────────────────────────────┘
                       │ HTTP API Calls (REST)
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                    FastAPI Backend (Port 8000)             │
-│                    Python + Pydantic + Uvicorn             │
-│                    CORS + Environment Variables            │
+│                    FastAPI Backend (Port 8000)              │
+│                    Python + Pydantic + Uvicorn              │
+│                    CORS + Environment Variables             │
 └─────────────────────┬───────────────────────────────────────┘
                       │ AI Processing
                       ▼
 ┌─────────────────────────────────────────────────────────────┐
-│                Multi-Agent System (LangChain)              │
-│              + Google Gemini API + Budget Parser           │
+│                Multi-Agent System (LangChain)               │
+│              + Google Gemini API + Budget Parser            │
 │              + OpenStreetMap Integration                    │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -593,6 +593,6 @@ docker-compose up --build
 
 **Happy Coding! 🚀**
 
-Built with ❤️ by B for IIITDMJ HackByte 3.0
+Built with ❤️ by BitWizards for Samsung Prism GenAI'25 Hackathon
 
-*Travelian India v2.0 - Modern AI-Powered Travel Planning*
+*Travelian India - Modern AI-Powered Travel Planning*
