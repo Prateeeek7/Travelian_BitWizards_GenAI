@@ -10,7 +10,7 @@ pinned: false
 short_description: AI-Powered Travel Planner for India - React + FastAPI
 ---
 <p align="center">
-  <img src="frontend/public/LOGO.png" alt="Travelian Logo" width="200"/>
+  <img src="LOGO.png" alt="Travelian Logo" width="200"/>
 </p>
 
 # Travelian India
